@@ -1,0 +1,1 @@
+[tensor([466.92215, 137.86710], device='cuda:0'), tensor([ 77.36494, 219.87074], device='cuda:0'), tensor([695.91785, 306.64542], device='cuda:0'), tensor([169.31248, 548.14899], device='cuda:0')]

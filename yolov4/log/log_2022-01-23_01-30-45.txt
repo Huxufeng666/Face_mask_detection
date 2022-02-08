@@ -1,0 +1,16 @@
+2022-01-23 01:30:45,666 train.py[line:614] INFO: Using device cuda
+2022-01-23 01:30:50,250 train.py[line:313] INFO: Starting training:
+        Epochs:          300
+        Batch size:      16
+        Subdivisions:    4
+        Learning rate:   0.001
+        Training size:   420
+        Validation size: 360
+        Checkpoints:     True
+        Device:          cuda
+        Images size:     608
+        Optimizer:       adam
+        Dataset classes: 2
+        Train label path:./MaskPascalVOC/train.txt
+        Pretrained:
+    

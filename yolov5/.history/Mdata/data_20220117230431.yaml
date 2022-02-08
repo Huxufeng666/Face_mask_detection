@@ -1,0 +1,5 @@
+train: ./Mdata/train/images/
+val: ./Mdata/test/images/
+
+nc: 2
+names: ['NO-mask', 'Mask']
